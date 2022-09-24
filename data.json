@@ -11,29 +11,29 @@
     "age": "121",
     "home": "Unknown",
     "thumbnail": {
-      "small": "img/legends/apex_small_0021_Ash.png",
-      "medium": "img/legends/apex_medium_0021_Ash.png",
-      "large": "img/legends/apex_large_0021_Ash.png",
-      "default": "img/legends/apex_default_0021_ash.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0021_Ash.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0021_Ash.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0021_Ash.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0021_ash.png"
     },
     "ability": [
       {
         "type": "Technical Ability",
         "title": "Arc Snare",
         "desc": "Throw a spinning snare that damages and tethers the first enemy who gets too close.",
-        "icon": "img/legends/ash-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/ash-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Marked For Death",
         "desc": "Ash's map shows the location of recent deathboxes and marks surviving attackers.",
-        "icon": "img/legends/ash-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/ash-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Phase Breach",
         "desc": "Tear open a one-way portal to a targeted location.",
-        "icon": "img/legends/ash-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/ash-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=1R559DWBYbU"
@@ -50,29 +50,29 @@
     "age": "38",
     "home": "Gridiron",
     "thumbnail": {
-      "small": "img/legends/apex_small_0020_Bangalore.png",
-      "medium": "img/legends/apex_medium_0020_Bangalore.png",
-      "large": "img/legends/apex_large_0020_Bangalore.png",
-      "default": "img/legends/apex_default_0020_Bangalore.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0020_Bangalore.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0020_Bangalore.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0020_Bangalore.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0020_Bangalore.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Smoke Launcher",
         "desc": "Fire a high-velocity smoke canister that explodes into a smoke wall on impact.",
-        "icon": "img/legends/bangalore-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bangalore-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Double Time",
         "desc": "Taking fire while sprinting makes you move faster for a brief time.",
-        "icon": "img/legends/bangalore-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bangalore-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Rolling Thunder",
         "desc": "Call in an artillery strike that slowly creeps across the landscape.",
-        "icon": "img/legends/bangalore-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bangalore-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=JyJhFYNob30"
@@ -89,29 +89,29 @@
     "age": "Unknown",
     "home": "Talos",
     "thumbnail": {
-      "small": "img/legends/apex_small_0019_Bloodhound.png",
-      "medium": "img/legends/apex_medium_0019_Bloodhound.png",
-      "large": "img/legends/apex_large_0019_Bloodhound.png",
-      "default": "img/legends/apex_default_0019_Bloodhound.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0019_Bloodhound.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0019_Bloodhound.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0019_Bloodhound.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0019_Bloodhound.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Eye of the Allfather",
         "desc": "Briefly reveal hidden enemies, traps, and clues throughout structures in front of you.",
-        "icon": "img/legends/bloodhound-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bloodhound-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Tracker",
         "desc": "See tracks left behind by your foes.",
-        "icon": "img/legends/bloodhound-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bloodhound-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Beast of the Hunt",
         "desc": "Enhances your senses, allowing you to move faster and highlighting your prey.",
-        "icon": "img/legends/bloodhound-ultimate-abulity.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/bloodhound-ultimate-abulity.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=euWTbVdRGv0"
@@ -128,29 +128,29 @@
     "age": "48",
     "home": "Gaea",
     "thumbnail": {
-      "small": "img/legends/apex_small_0018_Caustic.png",
-      "medium": "img/legends/apex_medium_0018_Caustic.png",
-      "large": "img/legends/apex_large_0018_Caustic.png",
-      "default": "img/legends/apex_default_0018_Caustic.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0018_Caustic.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0018_Caustic.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0018_Caustic.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0018_Caustic.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Nox Gas Trap",
         "desc": "Drop canisters that release deadly Nox gas when shot or triggered by enemies.",
-        "icon": "img/legends/caustic-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/caustic-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Nox Vision",
         "desc": "Allows you to see enemies through your gas.",
-        "icon": "img/legends/caustic-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/caustic-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Nox Gas Grenade",
         "desc": "Blankets a large area in Nox gas.",
-        "icon": "img/legends/caustic-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/caustic-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=dSz8Dnj1pdI"
@@ -167,29 +167,29 @@
     "age": "31",
     "home": "Gaea",
     "thumbnail": {
-      "small": "img/legends/apex_small_0017_Crypto.png",
-      "medium": "img/legends/apex_medium_0017_Crypto.png",
-      "large": "img/legends/apex_large_0017_Crypto.png",
-      "default": "img/legends/apex_default_0017_Crypto.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0017_Crypto.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0017_Crypto.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0017_Crypto.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0017_Crypto.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Surveillance Drone",
         "desc": "Deploy an aerial drone that allows you to view the surrounding area from above. If the drone is destroyed, there is a forty-second cooldown before you can deploy another.",
-        "icon": "img/legends/crypto-tactial-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/crypto-tactial-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Neurolink",
         "desc": "Enemies detected by the Surveillance Drone within 30 meters of your position are marked for you and your teammates to see.",
-        "icon": "img/legends/crypto-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/crypto-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Drone EMP",
         "desc": "Your Surveillance Drone sets off an EMP blast that deals shield damage, slows enemies, and disables traps.",
-        "icon": "img/legends/crypto-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/crypto-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=5_8WHxyW86o"
@@ -206,29 +206,29 @@
     "age": "54",
     "home": "Salvo",
     "thumbnail": {
-      "small": "img/legends/apex_small_0016_Fuse.png",
-      "medium": "img/legends/apex_medium_0016_Fuse.png",
-      "large": "img/legends/apex_large_0016_Fuse.png",
-      "default": "img/legends/apex_default_0016_Fuse.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0016_Fuse.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0016_Fuse.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0016_Fuse.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0016_Fuse.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Knuckle Cluster",
         "desc": "Launch a cluster bomb that continuously expels airburst explosives on impact.",
-        "icon": "img/legends/fuse-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/fuse-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Grenadier",
         "desc": "Stack an extra grenade per inventory slot. Fire grenades farther, faster, and more accurately.",
-        "icon": "img/legends/fuse-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/fuse-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "The Motherlode",
         "desc": "Launch a bombardment that encircles a target area in a wall of flame.",
-        "icon": "img/legends/fuse-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/fuse-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=OAWsJ-m1dV0"
@@ -245,29 +245,29 @@
     "age": "30",
     "home": "Solace",
     "thumbnail": {
-      "small": "img/legends/apex_small_0015_Gibraltar.png",
-      "medium": "img/legends/apex_medium_0015_Gibraltar.png",
-      "large": "img/legends/apex_large_0015_Gibraltar.png",
-      "default": "img/legends/apex_default_0015_Gibraltar.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0015_Gibraltar.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0015_Gibraltar.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0015_Gibraltar.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0015_Gibraltar.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Dome of Protection",
         "desc": "Throw down a dome shield that blocks attacks.",
-        "icon": "img/legends/gibraltar-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/gibraltar-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Gun Shield",
         "desc": "Aiming down sights deploys a gun shield that blocks incoming fire.",
-        "icon": "img/legends/gibraltar-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/gibraltar-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Defensive Bombardment",
         "desc": "Call in a concentrated mortar strike on a marked position.",
-        "icon": "img/legends/gibraltar-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/gibraltar-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=ccDyztf9FjU"
@@ -284,29 +284,29 @@
     "age": "37 (Give or take an extra 88 years…)",
     "home": "Psamathe",
     "thumbnail": {
-      "small": "img/legends/apex_small_0014_Horizon.png",
-      "medium": "img/legends/apex_medium_0014_Horizon.png",
-      "large": "img/legends/apex_large_0014_Horizon.png",
-      "default": "img/legends/apex_default_0014_Horizon.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0014_Horizon.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0014_Horizon.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0014_Horizon.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0014_Horizon.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Gravity Lift",
         "desc": "Reverses the flow of gravity, lifting players upwards and boosting them outwards when they exit.",
-        "icon": "img/legends/horizon-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/horizon-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Spacewalk",
         "desc": "Increase air control and reduce fall impacts with Horizon’s custom spacesuit.",
-        "icon": "img/legends/horizon-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/horizon-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Black Hole",
         "desc": "Deploy N.E.W.T. to create a micro black hole that pulls players in towards it, and hits them with a graviton blast at the end.",
-        "icon": "img/legends/horizon-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/horizon-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=PfLXL0jtMUQ"
@@ -323,29 +323,29 @@
     "age": "24",
     "home": "Psamathe",
     "thumbnail": {
-      "small": "img/legends/apex_small_0013_Lifeline.png",
-      "medium": "img/legends/apex_medium_0013_Lifeline.png",
-      "large": "img/legends/apex_large_0013_Lifeline.png",
-      "default": "img/legends/apex_default_0013_Lifeline.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0013_Lifeline.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0013_Lifeline.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0013_Lifeline.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0013_Lifeline.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "D.O.C. Heal Drone",
         "desc": "Call your Drone of Compassion to automatically heal nearby teammates over time.",
-        "icon": "img/legends/lifeline-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/lifeline-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Combat Medic",
         "desc": "Deploy D.O.C. to revive teammates, leaving you free to move and defend.",
-        "icon": "img/legends/lifeline-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/lifeline-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Care Package",
         "desc": "Call in a drop pod full of high-quality defensive gear.",
-        "icon": "img/legends/lifeline-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/lifeline-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=nxXFfe5X5qo"
@@ -362,29 +362,29 @@
     "age": "34",
     "home": "None",
     "thumbnail": {
-      "small": "img/legends/apex_small_0012_Loba.png",
-      "medium": "img/legends/apex_medium_0012_Loba.png",
-      "large": "img/legends/apex_large_0012_Loba.png",
-      "default": "img/legends/apex_default_0012_Loba.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0012_Loba.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0012_Loba.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0012_Loba.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0012_Loba.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Burglar’s Best Friend",
         "desc": "Teleport to hard-to-reach places or escape trouble quickly by throwing your Jump Drive bracelet.",
-        "icon": "img/legends/loba-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/loba-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Eye for Quality",
         "desc": "Nearby epic and legendary loot can be seen through walls. The range is the same as Black Market Boutique.",
-        "icon": "img/legends/loba-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/loba-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Black Market Boutique",
         "desc": "Place a portable device that allows you to teleport nearby loot to your inventory. Each friendly or enemy Legend can take up to two items.",
-        "icon": "img/legends/loba-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/loba-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=iRzZGQEPwY4"
@@ -401,29 +401,29 @@
     "age": "55",
     "home": "Salvo",
     "thumbnail": {
-      "small": "img/legends/apex_small_0011_Maggie.png",
-      "medium": "img/legends/apex_medium_0011_Maggie.png",
-      "large": "img/legends/apex_large_0011_Maggie.png",
-      "default": "img/legends/apex_default_0011_Maggie.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0011_Maggie.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0011_Maggie.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0011_Maggie.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0011_Maggie.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Riot Drill",
         "desc": "Fire a drill that burns enemies through obstacles.",
-        "icon": "img/legends/mad-maggie-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mad-maggie-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Warlord's ire",
         "desc": "Temporarily highlight enemies you’ve damaged, and move faster with a shotgun.",
-        "icon": "img/legends/mad-maggie-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mad-maggie-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Wrecking Ball",
         "desc": "Throw a ball that releases speed-boosting pads and detonates near enemies.",
-        "icon": "img/legends/mad-maggie-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mad-maggie-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=dIIbltnAcHs"
@@ -440,29 +440,29 @@
     "age": "30",
     "home": "Solace",
     "thumbnail": {
-      "small": "img/legends/apex_small_0010_Mirage.png",
-      "medium": "img/legends/apex_medium_0010_Mirage.png",
-      "large": "img/legends/apex_large_0010_Mirage.png",
-      "default": "img/legends/apex_default_0010_Mirage.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0010_Mirage.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0010_Mirage.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0010_Mirage.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0010_Mirage.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Psyche Out",
         "desc": "Send out a holographic decoy to confuse the enemy.",
-        "icon": "img/legends/mirage-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mirage-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Now You See Me . . .",
         "desc": "Automatically cloak when using Respawn Beacons and reviving teammates.",
-        "icon": "img/legends/mirage-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mirage-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Life of the Party",
         "desc": "Deploy a team of Decoys to distract enemies.",
-        "icon": "img/legends/mirage-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/mirage-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=gPHlrmyM8v4"
@@ -479,29 +479,29 @@
     "age": "40",
     "home": "Gridiron",
     "thumbnail": {
-      "small": "img/legends/apex_small_0009_Newcastle.png",
-      "medium": "img/legends/apex_medium_0009_Newcastle.png",
-      "large": "img/legends/apex_large_0009_Newcastle.png",
-      "default": "img/legends/apex_default_0009_Newcastle.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0009_Newcastle.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0009_Newcastle.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0009_Newcastle.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0009_Newcastle.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Mobile Shield",
         "desc": "Throw a controllable drone that creates a moving energy shield.",
-        "icon": "img/legends/newcastle-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/newcastle-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Retrieve the Wounded",
         "desc": "Drag downed allies as you revive and protect them with your Revive Shield.",
-        "icon": "img/legends/newcastle-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/newcastle-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Castle Wall",
         "desc": "Leap to an ally or target area and slam down, creating a fortified stronghold.",
-        "icon": "img/legends/newcastle-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/newcastle-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=rVVvu-SsV3I"
@@ -518,29 +518,29 @@
     "age": "24",
     "home": "Psamathe",
     "thumbnail": {
-      "small": "img/legends/apex_small_0008_Octane.png",
-      "medium": "img/legends/apex_medium_0008_Octane.png",
-      "large": "img/legends/apex_large_0008_Octane.png",
-      "default": "img/legends/apex_default_0008_Octane.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0008_Octane.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0008_Octane.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0008_Octane.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0008_Octane.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Stim",
         "desc": "Move 30% faster for six seconds. Costs health to use.",
-        "icon": "img/legends/octane-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/octane-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Swift Mend",
         "desc": "Automatically restores health over time.",
-        "icon": "img/legends/octane-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/octane-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Launch Pad",
         "desc": "Deploy a jump pad that catapults teammates through the air.",
-        "icon": "img/legends/octane-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/octane-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=aOdTqvcEaZ8"
@@ -557,29 +557,29 @@
     "age": "He really wants to know, too.",
     "home": "He’s trying to find out!",
     "thumbnail": {
-      "small": "img/legends/apex_small_0007_Pathfinder.png",
-      "medium": "img/legends/apex_medium_0007_Pathfinder.png",
-      "large": "img/legends/apex_large_0007_Pathfinder.png",
-      "default": "img/legends/apex_default_0007_Pathfinder.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0007_Pathfinder.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0007_Pathfinder.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0007_Pathfinder.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0007_Pathfinder.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Grappling Hook",
         "desc": "Grapple to get to out-of-reach places quickly.",
-        "icon": "img/legends/pathfinder-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/pathfinder-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Insider Knowledge",
         "desc": "Scan a survey beacon to reveal the ring’s next location.",
-        "icon": "img/legends/pathfinder-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/pathfinder-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Zipline Gun",
         "desc": "Create a zipline for everyone to use.",
-        "icon": "img/legends/pathfinder-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/pathfinder-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=kBpc2EaKBcA"
@@ -596,29 +596,29 @@
     "age": "21",
     "home": "Gaea",
     "thumbnail": {
-      "small": "img/legends/apex_small_0006_Rampart.png",
-      "medium": "img/legends/apex_medium_0006_Rampart.png",
-      "large": "img/legends/apex_large_0006_Rampart.png",
-      "default": "img/legends/apex_default_0006_Rampart.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0006_Rampart.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0006_Rampart.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0006_Rampart.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0006_Rampart.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Amped Cover",
         "desc": "Build a crouch-cover wall, which deploys a full-cover amped wall that blocks incoming shots and amps outgoing shots.",
-        "icon": "img/legends/rampart-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/rampart-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Modded Loader",
         "desc": "Increased magazine capacity and faster reloads when using LMGs and the Minigun.",
-        "icon": "img/legends/rampart-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/rampart-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Emplaced Minigun “Sheila”",
         "desc": "Place a mounted machine gun that anyone can use. High ammo capacity, long reload time.",
-        "icon": "img/legends/rampart-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/rampart-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=ANdAEztmFiA"
@@ -635,29 +635,29 @@
     "age": "Unknown",
     "home": "Solace",
     "thumbnail": {
-      "small": "img/legends/apex_small_0005_Revenant.png",
-      "medium": "img/legends/apex_medium_0005_Revenant.png",
-      "large": "img/legends/apex_large_0005_Revenant.png",
-      "default": "img/legends/apex_default_0005_Revenant.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0005_Revenant.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0005_Revenant.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0005_Revenant.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0005_Revenant.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Silence",
         "desc": "Throw a device that deals damage and disables enemy abilities.",
-        "icon": "img/legends/revenant-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/revenant-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Stalker",
         "desc": "You crouch-walk faster and can climb higher than other Legends.",
-        "icon": "img/legends/revenant-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/revenant-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Death Totem",
         "desc": "Drop a totem that protects those who use it from death for a set amount of time. Instead of being killed or downed, users will return to the totem.",
-        "icon": "img/legends/revenant-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/revenant-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=mBc5W96BYNE"
@@ -674,29 +674,29 @@
     "age": "26",
     "home": "Boreas",
     "thumbnail": {
-      "small": "img/legends/apex_small_0004_Seer.png",
-      "medium": "img/legends/apex_medium_0004_Seer.png",
-      "large": "img/legends/apex_large_0004_Seer.png",
-      "default": "img/legends/apex_default_0004_Seer.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0004_Seer.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0004_Seer.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0004_Seer.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0004_Seer.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Focus of Attention",
         "desc": "Seer summons his micro-drones to emit a delayed blast that goes through walls interrupting and revealing enemies. ",
-        "icon": "img/legends/seer-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/seer-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Heart Seeker",
         "desc": "Hear and visualize the heartbeats of nearby enemies when aiming down sights.",
-        "icon": "img/legends/seer-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/seer-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Exhibit",
         "desc": "Create a sphere of micro-drones that reveal the location of enemies moving quickly or firing their weapons within.",
-        "icon": "img/legends/seer-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/seer-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=FsidQPVzFDU"
@@ -713,29 +713,29 @@
     "age": "30",
     "home": "Angelia",
     "thumbnail": {
-      "small": "img/legends/apex_large_0003_Valkyrie.png",
-      "medium": "img/legends/apex_large_0003_Valkyrie.png",
-      "large": "img/legends/apex_large_0003_Valkyrie.png",
-      "default": "img/legends/apex_default_0003_Valkyrie.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0003_Valkyrie.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0003_Valkyrie.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0003_Valkyrie.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0003_Valkyrie.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Missile Swarm",
         "desc": "Fire a swarm of mini-rockets that damage and disorient the enemy.",
-        "icon": "img/legends/valkyrie-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/valkyrie-tactical-ability.png"
       },
       {
         "type": "VTOL Jets",
         "title": "Missile Swarm",
         "desc": "Use jetpack to fly. Fuel is limited but refills overtime.",
-        "icon": "img/legends/valkyrie-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/valkyrie-passive-ability.png"
       },
       {
         "type": "Skyward Dive",
         "title": "VTOL Jets",
         "desc": "Launch into the air and sky dive. Allies can hook into take-off systems to join you.",
-        "icon": "img/legends/valkyrie-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/valkyrie-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=PJYy-e3kXnU"
@@ -752,29 +752,29 @@
     "age": "18",
     "home": "Págos",
     "thumbnail": {
-      "small": "img/legends/apex_small_0002_Vantage.png",
-      "medium": "img/legends/apex_medium_0002_Vantage.png",
-      "large": "img/legends/apex_large_0002_Vantage.png",
-      "default": "img/legends/apex_default_0002_Vantage.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0002_Vantage.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0002_Vantage.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0002_Vantage.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0002_Vantage.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Echo Relocation",
         "desc": "Position your winged companion Echo and then Launch towards him. Must have line of sight for Echo to launch.",
-        "icon": "img/legends/vantage-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/vantage-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Spotter's Lens",
         "desc": "Aim down sights to scout with your eyepiece (unarmed or with mid- to long-range scopes) and use a bullet drop indicator to see where your shots will land.",
-        "icon": "img/legends/vantage-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/vantage-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Sniper's Mark",
         "desc": "Use your custom sniper rifle to mark enemy targets and apply a damage bonus for you and your team.",
-        "icon": "img/legends/vantage-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/vantage-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=DsmEczpCnZE"
@@ -791,29 +791,29 @@
     "age": "22",
     "home": "Solace",
     "thumbnail": {
-      "small": "img/legends/apex_small_0001_Wattson.png",
-      "medium": "img/legends/apex_medium_0001_Wattson.png",
-      "large": "img/legends/apex_large_0001_Wattson.png",
-      "default": "img/legends/apex_default_0001_Wattson.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0001_Wattson.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0001_Wattson.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0001_Wattson.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0001_Wattson.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Perimeter Security",
         "desc": "Connect nodes to create electrified fences that damage and slow enemies.",
-        "icon": "img/legends/wattson-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wattson-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Spark of Genius",
         "desc": "Ultimate Accelerants fully charge your Ultimate Ability.",
-        "icon": "img/legends/wattson-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wattson-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Interception Pylon",
         "desc": "Place an electrified pylon that destroys incoming ordnance and repairs damaged shields.",
-        "icon": "img/legends/wattson-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wattson-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=BuqnLGbjhkY"
@@ -830,29 +830,29 @@
     "age": "32",
     "home": "Typhon",
     "thumbnail": {
-      "small": "img/legends/apex_small_0000_Wraith.png",
-      "medium": "img/legends/apex_medium_0000_Wraith.png",
-      "large": "img/legends/apex_large_0000_Wraith.png",
-      "default": "img/legends/apex_default_0000_Wraith.png"
+      "small": "https://raddythebrand.github.io/apex-legends/img/legends/apex_small_0000_Wraith.png",
+      "medium": "https://raddythebrand.github.io/apex-legends/img/legends/apex_medium_0000_Wraith.png",
+      "large": "https://raddythebrand.github.io/apex-legends/img/legends/apex_large_0000_Wraith.png",
+      "default": "https://raddythebrand.github.io/apex-legends/img/legends/apex_default_0000_Wraith.png"
     },
     "ability": [
       {
         "type": "Tactical Ability",
         "title": "Into the Void",
         "desc": "Reposition quickly through the safety of void space, avoiding all damage.",
-        "icon": "img/legends/wraith-tactical-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wraith-tactical-ability.png"
       },
       {
         "type": "Passive Ability",
         "title": "Voices from the Void",
         "desc": "A voice warns you when danger approaches. As far as you can tell, it’s on your side.",
-        "icon": "img/legends/wraith-passive-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wraith-passive-ability.png"
       },
       {
         "type": "Ultimate Ability",
         "title": "Dimensional Rift",
         "desc": "Link two locations with portals for 60 seconds, allowing your entire team to use them.",
-        "icon": "img/legends/wraith-ultimate-ability.png"
+        "icon": "https://raddythebrand.github.io/apex-legends/img/legends/wraith-ultimate-ability.png"
       }
     ],
     "yt_trailer": "https://www.youtube.com/watch?v=yU_eip8IvQU"
