@@ -29,6 +29,8 @@ async function getLegends() {
   }
 
 }
+
+getLegends();
 ```
 
 ## Original Idea
