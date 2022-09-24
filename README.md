@@ -1,8 +1,18 @@
 # Apex Legends Data
 
+A simple JSON file containing Legends data that was manually scraped from the official website.
+
+- [x] Scrape Legends Data
+- [x] Format Legends Ready for MongoDB
+- [x] Create Images - Small, Medium, Large & Default
+- [x] Create Node.Js API (done hosting required)
+- [] Fix Images
+
+The images where all manually downloaded, masked, cropped, exported and optimised. Some of the photoshops are not great and will require more work. Full PSD's will be included if you would like to contribiute.
+
 ## Data Endpoint
 
-To grab the data use: https://raddythebrand.github.io/apex-legends/data.json
+V1: https://raddythebrand.github.io/apex-legends/data.json
 
 ## Example
 
