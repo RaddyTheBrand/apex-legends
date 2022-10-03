@@ -6,7 +6,8 @@ A simple JSON file containing Legends data that was manually scraped from the of
 - [x] Format Legends Ready for MongoDB
 - [x] Create Images - Small, Medium, Large & Default
 - [x] Create Node.Js API (done hosting required)
-- [ ] Fix Images
+- [x] Fix Images Shadows
+- [x] Upload Character PSD - Includes masking
 
 The images where all manually downloaded, masked, cropped, exported and optimised. Some of the images will require more work. Full PSD's will be included if you would like to contribiute.
 
