@@ -1,4 +1,4 @@
-# Apex Legends Data
+# FREE Apex Legends API
 
 A simple JSON file containing Legends data that was manually scraped from the official website.
 
@@ -15,7 +15,7 @@ The images where all manually downloaded, masked, cropped, exported and optimise
 
 V1: https://raddythebrand.github.io/apex-legends/data.json
 
-## Example
+## Example Usage - JavaScript
 
 ```
 const url = 'https://raddythebrand.github.io/apex-legends/data.json';
